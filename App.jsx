@@ -3,7 +3,7 @@ import './App.css'
 import '@chatscope/chat-ui-kit-styles/dist/default/styles.min.css';
 import { MainContainer, ChatContainer, MessageList, Message, MessageInput, TypingIndicator } from '@chatscope/chat-ui-kit-react';
 
-const API_KEY = "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";
+const API_KEY = "Your Api Key here ........";
 const systemMessage = {
   "role": "system", "content": "Explain things like you're talking to a software professional with 2 years of experience."
 }
